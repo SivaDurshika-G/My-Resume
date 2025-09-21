@@ -27,7 +27,7 @@ M-resume/
 🚀 Getting Started
 
 ⿡ Clone the Repository
-git clone https://github.com/your-username/M-resume.git
+git clone https://github.com/SivaDurshika-G/M-resume.git
 cd M-resume
 
 ⿢ Open in Browser
