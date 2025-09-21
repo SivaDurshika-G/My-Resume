@@ -25,11 +25,6 @@ M-resume/
 │── assets/           # Images, icons, or extra resources
 
 🚀 Getting Started
-
-⿡ Clone the Repository
-git clone https://github.com/SivaDurshika-G/M-resume.git
-cd M-resume
-
 ⿢ Open in Browser
 Just open index.html in any modern browser. 🌍
 
